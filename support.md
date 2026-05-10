@@ -24,7 +24,7 @@ NicFree subscriptions are managed through Apple. To cancel:
 Open NicFree → tap **Profile** → **Restore Purchases**. Make sure you're signed in with the same Apple ID you originally used to subscribe.
 
 ### Will my data sync between devices?
-Your local quit progress (days quit, cravings, slips) is stored on each device individually. NicFree Pro includes cloud backup so you can restore your progress on a new device by signing in with the same Apple ID and tapping Restore Purchases.
+Your quit progress (days quit, cravings, slips) is stored on each device individually — privacy first, no account required. If you switch devices, sign in with the same Apple ID and tap Restore Purchases inside NicFree to reactivate your subscription. Progress data does not sync across devices.
 
 ### Is my data shared with anyone?
 No. Your personal progress data lives on your device. We don't have analytics, ad SDKs, or trackers. See our [Privacy Policy](./privacy-policy.md) for full details.
